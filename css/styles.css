@@ -27,11 +27,13 @@
     border: 1px solid white;
     border-radius: 0.3rem;
 }
+
 /* Main */
 .main-grid-container{
     display: grid;
     gap: 1rem;
 }
+
 /*Proyectos*/
 .proyectos-container article{
     background-color: black;
@@ -49,6 +51,7 @@
 .proyectos-container article img{
     width: 100%;
 }
+
 /*Footer*/
 
 .index-footer{
