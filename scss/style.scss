@@ -106,3 +106,16 @@
 .proyectos-container article{
     max-width: 20rem;
 }
+}
+
+scss/
+│── _variables.scss
+│── _header.scss
+│── _footer.scss
+│── _main.scss
+main.scss
+
+@import "variables";
+@import "header";
+@import "footer";
+@import "main";
