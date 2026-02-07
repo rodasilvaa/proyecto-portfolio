@@ -111,12 +111,20 @@
 scss/
 │── _variables.scss
 $font-principal: 'Poppins', sans-serif;
+
 │── _header.scss
+
 │── _footer.scss
+
 │── _main.scss
+
 main.scss
 
 @import "variables";
+
 @import "header";
+
 @import "footer";
+
 @import "main";
+
